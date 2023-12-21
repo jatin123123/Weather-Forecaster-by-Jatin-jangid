@@ -8,7 +8,7 @@ body{
     background: #222;
 }
 .card{
-    width: 800%;
+    width: 100%;
     max-width: 470px;
     background: linear-gradient(135deg,rgb(61, 121, 105),#14102f);
     color: #fff;
@@ -93,7 +93,7 @@ cursor: pointer;
     display: none;
 }
 .nav{
-    width: 100%;
+    width: 100vw;
     border-radius: 20px;
     color: #ebfffc;
     background: linear-gradient(135deg,rgb(61, 121, 105),#14102f);
